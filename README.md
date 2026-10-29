@@ -10,6 +10,8 @@
 
 ## 📋 Sobre o projeto
 
+Projeto desenvolvido no curso "Front End Completo" Danki Code
+
 Descreva o projeto, seu contexto e o problema que ele resolve.
 
 ### Objetivo
